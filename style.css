@@ -1,0 +1,20 @@
+h1
+{
+    color: white;
+    font-size: 2em;
+    position: relative;
+}
+
+*{
+    background-color: blueviolet;
+}
+
+.topbar
+{
+    display: flex;
+    justify-content: flex-end;
+    gap: 10px
+}
+
+
+
